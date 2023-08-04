@@ -1,4 +1,4 @@
-require '../class/solver'
+require_relative '../class/solver'
 require 'rspec'
 require 'rspec/mocks'
 
