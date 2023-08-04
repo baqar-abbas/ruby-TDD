@@ -13,4 +13,7 @@ class Solver
     
         number.to_s
       end
+    def reverse_string(str)
+        str.reverse
+      end
 end
